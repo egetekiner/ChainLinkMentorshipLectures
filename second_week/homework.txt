@@ -1,0 +1,13 @@
+Hello Everyone, this week, we will start making some homeworks on our blockchain environment. 
+
+The first homework will be as follows,
+
+1) Use struct.sol contract for your beginning point. 
+2) Create an static array for 25 students.
+3) Allow people to join your students list.
+4) Do not allow one address or name make double registration and return a message that says, "Already enrolled"
+5) Create a view function to list "all" students already enrolled
+
+Hints:
+- You will need to modify struct and add address variable.
+- You can use pure function to count successful enrollments. 
