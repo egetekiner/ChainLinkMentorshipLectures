@@ -1,0 +1,5 @@
+Hello everyone,
+
+THis week I want you to use the faucet contract under the same folder with this homework to receive crypto tokens.
+
+You can put your transaction hash as a comment of this txt file.
